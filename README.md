@@ -83,11 +83,10 @@ Git, GitHub Actions, VS Code, Google Colab
 
 ## 📫 Contato
 
-GitHub: https://github.com/annapatricia
-LinkedIn: https://www.linkedin.com/in/anna-patricia-pachas-manrique-414806ab/ 
-Email: annapamanrique@gmail.com
+- **GitHub:** https://github.com/annapatricia  
+- **LinkedIn:** https://www.linkedin.com/in/anna-patricia-pachas-manrique-414806ab/  
+- **Email:** annapamanrique@gmail.com
 
----
 
 © 2026 Anna Manrique
 
