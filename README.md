@@ -18,10 +18,13 @@ Tenho experiência com:
 ---
 
 
-https://github.com/annapatricia/jogo-baloes-js
+🚀 Projetos em Destaque
 
+🎈 Estoure os Balões — Jogo Infantil em JavaScript  
+Jogo educativo e interativo desenvolvido com HTML, CSS e JavaScript puro, voltado para crianças.  
+O objetivo é estimular coordenação motora, atenção e raciocínio rápido de forma divertida.
 
-## 🚀 Projetos em Destaque
+🔗 https://github.com/annapatricia/jogo-baloes-js
 
 ### 📘 STEAM Educacional — Matemática, Biologia, Física e Dados
 Projeto educacional com notebooks interativos usando Python e visualização de dados.
