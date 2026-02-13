@@ -49,12 +49,25 @@ Modelo de Machine Learning para análise de risco de churn com dashboard em Powe
 
 ## 🛠 Tecnologias
 
-**Linguagens:** Python, SQL  
-**Dados:** Pandas, NumPy, Matplotlib  
-**Machine Learning:** Scikit-learn, CNN  
-**Cloud:** AWS (S3, Athena)  
-**BI:** Power BI  
-**Ferramentas:** Git, GitHub Actions, VS Code, Google Colab  
+### 💻 Linguagens de Programação
+Python (avançado), SQL, JavaScript
+
+### 📊 Análise de Dados
+Pandas, NumPy, Matplotlib, análise exploratória (EDA), tratamento e transformação de dados
+
+### 📈 Business Intelligence & Análise
+Power BI (criação de dashboards interativos, modelagem de dados, DAX básico/intermediário)  
+Excel (análise de dados, tabelas dinâmicas, funções avançadas, gráficos, organização e limpeza de dados)
+
+### 🤖 Machine Learning
+Scikit-learn, Redes Neurais Convolucionais (CNN), pipelines de ML
+
+### ☁️ Cloud Computing
+AWS (S3, Athena, IAM)
+
+### 🧰 Ferramentas
+Git, GitHub Actions, VS Code, Google Colab
+ 
 
 ---
 
@@ -70,9 +83,9 @@ Modelo de Machine Learning para análise de risco de churn com dashboard em Powe
 
 ## 📫 Contato
 
-GitHub: https://github.com/annapatricia  
-LinkedIn: (coloque seu link aqui)  
-Email: (coloque seu email aqui)
+GitHub: https://github.com/annapatricia
+LinkedIn: https://www.linkedin.com/in/anna-patricia-pachas-manrique-414806ab/ 
+Email: annapamanrique@gmail.com
 
 ---
 
